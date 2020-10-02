@@ -2,7 +2,9 @@
 ## A simple and minimal todo CLI app written in python
 
 ### Installing
-Use pip or something, will write later (probably)
+Linux: `sudo python3 setup.py install`
+
+Windows/Mac: Not sure, maybe try a variant of the above without `sudo`
 
 ### Usage
 `toopy`: List all tasks
